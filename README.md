@@ -44,7 +44,6 @@ Additionaly two new CSS class's were created: .content article h2 & .content art
 
 Example provided: https://share.getcloudapp.com/Apugy6pA
 
-Final Product HTML: https://share.getcloudapp.com/7KuWx1Ok
 Final product webpage: https://share.getcloudapp.com/mXuG7240
 
 # Link to Deployed project
