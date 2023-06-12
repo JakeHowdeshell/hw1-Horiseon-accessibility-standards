@@ -21,7 +21,7 @@ Changed the <dev> tags withing the HTML structure to the correct semantic HTML e
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 
-Made sure that the elements
+Made sure there was an accurate logic structure using the updated semantic HTML elements.
 
 WHEN I view the image elements
 THEN I find accessible alt attributes
@@ -42,6 +42,8 @@ Additionaly two new CSS class's were created: .content section h2 & .content sec
 
 # Screenshot
 
+Example provided: https://share.getcloudapp.com/Apugy6pA
 
+Final Product HTML: https://share.getcloudapp.com/7KuWx1Ok
 
 # Link to Deployed project

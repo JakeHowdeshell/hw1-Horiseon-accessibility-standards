@@ -192,7 +192,7 @@ p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-  /* Added display: none to content in the footer as it is not being displayed on the example */
+  /* Added display: none to the style in the footer as it is not being displayed on the example provided */
   display: none;
 }
 .footer h3 {
