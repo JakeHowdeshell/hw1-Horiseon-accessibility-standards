@@ -10,7 +10,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-Alterations were made to the HTML and CSS code in order to fit the following acceptance criteria:
+Alterations were made to properly name the elements in the HTML file and condensing the CSS code so there were no redundant styles and it was cascading in the same fashion as the HTML file in order to fit the following acceptance criteria:
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -38,14 +38,15 @@ THEN I find a concise, descriptive title
 
 Updated the webpage title to reflect the name of the company as well place an emphasis on the main content provided on this webpage.
 
-Additionaly two new CSS class's were created: .content section h2 & .content section p to alter the width and positioning of their container so that the text would display visaully the same as the provided image. display:none attribute was also added to the class: .footer so that the footer would no longer display, as represented in the provided example picture.
+Additionaly two new CSS class's were created: .content article h2 & .content article p to alter the width and positioning of their container so that the text would display visaully the same as the provided image. display:none attribute was also added to the class: .footer so that the footer would no longer display, as represented in the provided example picture. All changes made are noted in both the HTML and CSS files to be more accurately tracked.
 
 # Screenshot
 
 Example provided: https://share.getcloudapp.com/Apugy6pA
 
 Final Product HTML: https://share.getcloudapp.com/7KuWx1Ok
+Final product webpage: https://share.getcloudapp.com/mXuG7240
 
 # Link to Deployed project
 
-https://jakehowdeshell.github.io/hw1-Horiseon-debugging/
+https://jakehowdeshell.github.io/hw1-Horiseon-accessibility-standards/
